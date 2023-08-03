@@ -4,6 +4,7 @@ The Great Software/Service Developer List
 - Stewart Butterfield and More : Slack의 창시자
 - Jeff Atwood and Joel Spolsky: StackOverFlow의 창시자
 - James Gosling: Java의 창시자
+- Linus Torvalds: 리눅스와 Git의 창시자
 
 
 
