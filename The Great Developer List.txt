@@ -2,6 +2,7 @@ The Great Software/Service Developer List
 
 - Chris Wanstrath and More: Github의 창시자
 - Stewart Butterfield and More : Slack의 창시자
+- Jeff Atwood and Joel Spolsky: StackOverFlow의 창시자
 
 
 
