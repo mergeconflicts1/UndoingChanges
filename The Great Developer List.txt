@@ -7,6 +7,7 @@ The Great Software/Service Developer List
 - Linus Torvalds: 리눅스와 Git의 창시자
 - Guido van Rossum: Python의 창시자
 - Dennis Ritchie: UNIX와 C언어의 창시자
+- Tim Berners-Lee: WWW의 창시자
 
 
 
