@@ -10,6 +10,7 @@ The Great Software/Service Developer List
 - 깃미남: mergeconflicts의 창시자
 - 진: 카카오T 공통 개발
 - 테드: 대중교통 개발
+- 비모: 랜트카 개발
 - Tim Berners-Lee: WWW의 창시자
 
 
