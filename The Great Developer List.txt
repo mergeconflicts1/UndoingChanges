@@ -9,6 +9,7 @@ The Great Software/Service Developer List
 - Dennis Ritchie: UNIX와 C언어의 창시자
 - 깃미남: mergeconflicts의 창시자
 - 진: 카카오T 공통 개발
+- 테드: 대중교통 개발
 - Tim Berners-Lee: WWW의 창시자
 
 
