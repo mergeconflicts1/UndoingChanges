@@ -12,6 +12,7 @@ The Great Software/Service Developer List
 - 테드: 대중교통 개발
 - 비모: 랜트카 개발
 - 캐리: 바이크 개발
+- 애셔: 피커 개발
 - Tim Berners-Lee: WWW의 창시자
 
 
